@@ -17,3 +17,6 @@ Context - Social and cultural background, peers, habits, family status, social s
 * Sandra, 27, single
 * Liberal arts, Photography
 * Fashion journalist, SF
+
+!(https://www.dropbox.com/s/iytdl63bcj7xp13/IMG_20161021_182335.jpg?dl=0)
+
